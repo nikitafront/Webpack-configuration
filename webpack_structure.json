@@ -1,0 +1,15 @@
+{
+  "dist":  "build directory",
+  "node modules":  "webpack dependencies",
+  "src":  {
+    "fonts": "fonts folder",
+    "media": "photo/video folder",
+    "scripts": "scripts folder",
+    "styles": "stylesheets folder",
+    "index.html": "main HTML file",
+    "index.js": "main JavaScript file and entry point for webpack"
+  },
+  "package.json":  "Webpack file",
+  "package-lock.json":  "Webpack file",
+  "webpack.config.js": "Webpack file"
+}
